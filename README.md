@@ -15,6 +15,7 @@
 - 📫 How to reach me: annmunju@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+- 🏠 [My blog](https://mungdo.github.io/)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mungdo&show_icons=true&hide_border=true)](https://github.com/mungdo)  
