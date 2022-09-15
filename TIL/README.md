@@ -48,9 +48,9 @@
 
 ### coursera : Machine Learning
 * Supervised Machine Learning: Regression and Classification
-    * [W01(1)](./202209/20220913.md)
-    * [W01(2)](./202209/20220914.md)
-
+    * [W01(1) - Supervised Vs Unsupervised](./202209/20220913.md)
+    * [W01(2) - Linear regression, Cost function](./202209/20220914.md)
+    * [W01(3) - Gradient descent, Learning rate](./202209/20220915.md)
 
 ---
 
