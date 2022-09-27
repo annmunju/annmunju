@@ -52,6 +52,9 @@
     * [W01(2) - Linear regression, Cost function](./202209/20220914.md) (2022. 09. 14)
     * [W01(3) - Gradient descent, Learning rate](./202209/20220915-16.md) (2022. 09. 16)
     * [W02(1) - Multiple linear regression](./202209/20220920.md) (2022. 09. 20)
+    * [W02(2) - Gradient descent in practice](./202209/20220923.md) (2022. 09. 23)
+    * [W03(1) - Classification with logistic regression](./202209/20220927.md)
+
 
 ---
 
