@@ -53,8 +53,9 @@
     * [W01(3) - Gradient descent, Learning rate](./202209/20220915-16.md) (2022. 09. 16)
     * [W02(1) - Multiple linear regression](./202209/20220920.md) (2022. 09. 20)
     * [W02(2) - Gradient descent in practice](./202209/20220923.md) (2022. 09. 23)
-    * [W03(1) - Classification with logistic regression](./202209/20220927.md)
-    * [W03(2) - Cost function for logistic regression](./202209/20220928.md)
+    * [W02 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W2.ipynb) (2022. 09. 28)
+    * [W03(1) - Classification with logistic regression](./202209/20220927.md) (2022. 09. 27)
+    * [W03(2) - Cost function for logistic regression](./202209/20220928.md) (2022. 09. 28)
 
 
 ---
