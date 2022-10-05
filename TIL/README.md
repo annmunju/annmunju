@@ -56,7 +56,9 @@
     * [W02 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W2.ipynb) (2022. 09. 28)
     * [W03(1) - Classification with logistic regression](./202209/20220927.md) (2022. 09. 27)
     * [W03(2) - Cost function for logistic regression](./202209/20220928.md) (2022. 09. 28)
-    * [W03 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W3.ipynb) (2022/ 09. 29)
+    * [W03 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W3.ipynb) (2022. 09. 29)
+    * [W03(3) - problem of overfitting](./202210/20221004.md) (2022. 10. 04)
+    * [W03(4) - review](./202210/20221005.md) (2022. 10. 05)
 
 
 ---
