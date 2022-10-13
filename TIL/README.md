@@ -46,7 +46,7 @@
 
 #
 
-### coursera : Machine Learning
+### coursera : Machine Learning 특화 과정
 * Supervised Machine Learning: Regression and Classification
     * [W01(1) - Supervised Vs Unsupervised](./202209/20220913.md) (2022. 09. 13)
     * [W01(2) - Linear regression, Cost function](./202209/20220914.md) (2022. 09. 14)
@@ -56,10 +56,15 @@
     * [W02 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W2.ipynb) (2022. 09. 28)
     * [W03(1) - Classification with logistic regression](./202209/20220927.md) (2022. 09. 27)
     * [W03(2) - Cost function for logistic regression](./202209/20220928.md) (2022. 09. 28)
-    * [W03 - 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W3.ipynb) (2022. 09. 29)
     * [W03(3) - problem of overfitting](./202210/20221004.md) (2022. 10. 04)
     * [W03(4) - review](./202210/20221005.md) (2022. 10. 05)
-* 
+    * [최종 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W3.ipynb) (2022. 10. 09)
+
+* Advannced Learning Algorithms
+    * [W01(1) - Neural networks intutition](./202210/20221007.md) (2022. 10. 07)
+    * [W01(2) - Neural network model]
+    * [W01(3) - TensorFlow implementation, Neural network implementation in Python]
+    * [W01(4) - Speculations on artificial general intelligence, Vectorization]
 
 
 ---
