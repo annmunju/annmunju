@@ -16,7 +16,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 - 🏠 [My blog](https://mungdo.github.io/)
-- 🙇‍♀️ [Today I Learned](./TIL/)
+- 🙇‍♀️ [Today I Learned](./TIL/2022/)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mungdo&show_icons=true&hide_border=true)](https://github.com/mungdo)  
