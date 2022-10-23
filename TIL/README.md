@@ -58,13 +58,13 @@
     * [W03(2) - Cost function for logistic regression](./202209/20220928.md) (2022. 09. 28)
     * [W03(3) - problem of overfitting](./202210/20221004.md) (2022. 10. 04)
     * [W03(4) - review](./202210/20221005.md) (2022. 10. 05)
-    * [최종 과제 Notebook](./202209/notebooks/%EA%B3%BC%EC%A0%9C_W3.ipynb) (2022. 10. 09)
+    * [최종 과제 Notebook](./202210/notebooks/과제_W3.ipynb) (2022. 10. 09)
 
 * Advannced Learning Algorithms
     * [W01(1) - Neural networks intutition](./202210/20221007.md) (2022. 10. 07)
-    * [W01(2) - Neural network model]
-    * [W01(3) - TensorFlow implementation, Neural network implementation in Python]
-    * [W01(4) - Speculations on artificial general intelligence, Vectorization]
+    * [W01(2) - Neural network model](./202210/20221011.md) (2022. 10. 11)
+    * W01(3) - TensorFlow implementation, Neural network implementation in Python
+    * W01(4) - Speculations on artificial general intelligence, Vectorization
 
 
 ---
