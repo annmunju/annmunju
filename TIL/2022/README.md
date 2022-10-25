@@ -61,10 +61,9 @@
     * [최종 과제 Notebook](./202210/notebooks/과제_W3.ipynb) (2022. 10. 09)
 
 * Advannced Learning Algorithms
-    * [W01(1) - Neural networks intutition](./202210/20221007.md) (2022. 10. 07)
-    * [W01(2) - Neural network model](./202210/20221011.md) (2022. 10. 11)
-    * W01(3) - TensorFlow implementation, Neural network implementation in Python
-    * W01(4) - Speculations on artificial general intelligence, Vectorization
+    * [W01(1) - Neural networks intutition, W01(2) - Neural network model](./202210/20221007.md) (2022. 10. 07)
+    * [W01(3) - TensorFlow implementation, Neural network implementation in Python, W01(4) - Speculations on artificial general intelligence, Vectorization](./202210/20221011.md) (2022. 10. 11)
+    * [W02](./202210/20221025.ipynb) (2022. 10. 25)
 
 
 ---
