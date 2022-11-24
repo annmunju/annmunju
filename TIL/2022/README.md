@@ -69,6 +69,7 @@
     * [W02(3) - Multiclass Classification, W02(4) - Additional Neural Network Concepts](./202211/20221115.ipynb) (2022. 11. 15)
     * [W03(1) - Advice for applying machine learning](./202211/20221121.md) (2022. 11. 21)
     * [W03(2) - Bias and variance](./202211/20221122.md) (2022. 11. 22)
+    * [W03(2) - Learning Curves](./202211/20221122.md) (2022. 11. 23)
 
 ---
 
