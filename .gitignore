@@ -5,3 +5,4 @@ ML/
 .ipynb_checkpoints/
 resource_*/
 __pycache__/
+embedding_model

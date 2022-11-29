@@ -72,7 +72,7 @@
     * [W03(2) - Learning Curves](./202211/20221123.md) (2022. 11. 23)
 
 ### Tensorflow tutorial 사용해보기
-* [Style Transfer](./202211/20221125/)
+* [Style Transfer](./202211/20221125-28/20221128_Style_transfer.ipynb)
 
 
 ---
