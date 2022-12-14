@@ -68,8 +68,10 @@
     * [W02(1) - Neural Network Training, W02(2) - Activation Functions, W02(3) - Multiclass Classification](./202211/20221101.ipynb) (2022. 11. 01)
     * [W02(3) - Multiclass Classification, W02(4) - Additional Neural Network Concepts](./202211/20221115.ipynb) (2022. 11. 15)
     * [W03(1) - Advice for applying machine learning](./202211/20221121.md) (2022. 11. 21)
-    * [W03(2) - Bias and variance](./202211/20221122.md) (2022. 11. 22)
-    * [W03(2) - Learning Curves](./202211/20221123.md) (2022. 11. 23)
+    * [W03(2) - Bias and variance](./202211/20221122.md), [Learning Curves](./202211/20221123.md) (2022. 11. 22-23)
+    * [W03(3) - MLOps](./202211/20221129.md) (2022. 11. 29)
+    * [W03(4) - Bias](./202212/20221207.md) (2022. 12. 07)
+    * [W04(1) - Decision Tree](./202212/20221213.md) (2022. 12. 13)
 
 ### Tensorflow tutorial 사용해보기
 * [Style Transfer](./202211/20221125-28/20221128_Style_transfer.ipynb)
