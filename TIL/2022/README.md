@@ -71,7 +71,8 @@
     * [W03(2) - Bias and variance](./202211/20221122.md), [Learning Curves](./202211/20221123.md) (2022. 11. 22-23)
     * [W03(3) - MLOps](./202211/20221129.md) (2022. 11. 29)
     * [W03(4) - Bias](./202212/20221207.md) (2022. 12. 07)
-    * [W04(1) - Decision Tree](./202212/20221213.md) (2022. 12. 13)
+    * [W04(1) - Decision Tree](./202212/20221213.md), [entropy 실습](./202212/20221213.ipynb) (2022. 12. 13)
+    * [W04(2) - Decision Tree Training](./202212/20221214.md) (2022. 12. 14)
 
 ### Tensorflow tutorial 사용해보기
 * [Style Transfer](./202211/20221125-28/20221128_Style_transfer.ipynb)
