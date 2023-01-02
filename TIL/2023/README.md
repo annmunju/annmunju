@@ -1,6 +1,4 @@
-## Today I Learned (2023)
-
-#
+# Today I Learned (2023)
 
 ## Machine Learning 
 
