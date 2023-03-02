@@ -6,3 +6,4 @@ ML/
 resource_*/
 __pycache__/
 embedding_model
+tmp/
