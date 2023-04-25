@@ -16,11 +16,11 @@
 
 <div align=center>
    
-   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=munjuAhn&show_icons=true)
+   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=annmunju&show_icons=true)
    
-   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=munjuAhn&hide_border=true)
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annmunju&hide_border=true)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munjuAhn&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annmunju&layout=compact)
 
 </div>
 
