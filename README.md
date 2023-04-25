@@ -27,16 +27,6 @@
 
 ------
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Algorithm, SQL, Django, stastics, crawling, Machine Learning and Deep Learning.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: annmunju@gmail.com
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-- 🙇‍♀️ [Today I Learned](./TIL/)
-
 <div align=center>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-Here-blue?style=for-the-badge)](https://ahnmunju.oopy.io/)
@@ -61,3 +51,13 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 
 </div>
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Algorithm, SQL, Django, stastics, crawling, Machine Learning and Deep Learning.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: annmunju@gmail.com
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+- 🙇‍♀️ [Today I Learned](./TIL/)
