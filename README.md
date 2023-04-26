@@ -32,7 +32,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-Here-blue?style=for-the-badge)](https://ahnmunju.oopy.io/)
 [![study](https://img.shields.io/badge/study-Here-orange?style=for-the-badge)](https://ahnmunju.oopy.io/0a363177-132a-4e11-91fb-ceed488c7f4a)
 [![Gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:ahnmunju@gmail.com)
-[![TIL]](https://img.shields.io/badge/TIL:2023-Here-green?style=for-the-badge)(https://github.com/annmunju/annmunju/tree/main/TIL/2023)
+[![TIL](https://img.shields.io/badge/TIL:2023-Here-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2023)
 
 </div>
 
