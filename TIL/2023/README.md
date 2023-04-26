@@ -21,8 +21,8 @@
 * [PCA 실습](./202303/20230323.ipynb) (2023. 03. 23)
 
 ### Reinforcement learning
-* [Reinforcement learning](./202304/20230404.md) (2023. 04. 04)
-* [실습 : cartpole (미완성)](./202304/20230411_test_cartpole/) (2023. 04. 11)
+* [Reinforcement learning](./202304/20230404-26.md) (2023. 04. 04 ~ 26)
+* [실습 : gym을 이용한 강화학습](./202304/test_gym) (2023. 04.)
 
 
 ---
