@@ -1,6 +1,7 @@
 # Today I Learned (2023)
 
-## 1. [coursera : Machine Learning 특화 과정](https://www.coursera.org/specializations/machine-learning-introduction#courses) : Unsupervised Learning, Recommenders, Reinforcement Learning
+## Machine Learning 
+* [Courcera : Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/specializations/machine-learning-introduction#courses) : 
 
 ### Unsupervised learning
 * [Clustering](./202301/20230102.md) (2023. 01. 02)
@@ -22,3 +23,12 @@
 ### Reinforcement learning
 * [Reinforcement learning](./202304/20230404.md) (2023. 04. 04)
 * [실습 : cartpole (미완성)](./202304/20230411_test_cartpole/) (2023. 04. 11)
+
+
+---
+
+## Papaer reading
+
+### Multi-modal Model
+* [OFA : Language-Image pretrained model](https://ahnmunju.oopy.io/5523601a-0e89-4d78-9746-1b1e55accf45) (2023. 03. 19)
+* [Sketch-RNN : A Neural Representation of Sketch Drawings](https://ahnmunju.oopy.io/c7c729ab-2e43-47a9-a9d8-2f3348619f68) (2023. 04. 25)
