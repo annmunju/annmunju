@@ -1,7 +1,7 @@
 # Today I Learned (2023)
 
 ## Machine Learning 
-* [Courcera : Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/specializations/machine-learning-introduction#courses) : 
+* [Courcera : Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/specializations/machine-learning-introduction#courses)
 
 ### Unsupervised learning
 * [Clustering](./202301/20230102.md) (2023. 01. 02)
