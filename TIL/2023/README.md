@@ -1,7 +1,7 @@
 # Today I Learned (2023)
 
-## Machine Learning 
-* [Courcera : Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+## Machine Learning - Courcera
+* [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/specializations/machine-learning-introduction#courses)
 
 ### Unsupervised learning
 * [Clustering](./202301/20230102.md) (2023. 01. 02)
@@ -23,6 +23,15 @@
 ### Reinforcement learning
 * [Reinforcement learning](./202304/20230404-26.md) (2023. 04. 04 ~ 26)
 * [실습 : gym을 이용한 강화학습](./202304/test_gym) (2023. 04.)
+
+
+## Machine Learning - Boostcourse
+
+### [쇼핑데이터를 활용한 머신러닝](https://www.boostcourse.org/ai224/joinLectures/361801)
+* [정형 데이터 소개 및 EDA](https://ahnmunju.oopy.io/b0f8f322-0571-48b6-9ea7-7fc904897ebb) (2023. 05. 06)
+* [정형 데이터 전처리](https://ahnmunju.oopy.io/b68ad2eb-d023-48c1-bdd9-c2a563051e63) (2023. 05. 07)
+* [머신러닝 기본 개념 - 모델 성능 평가 및 검증](https://ahnmunju.oopy.io/a2c80d08-2ca2-4996-9c20-2afe1bb95837) (2023. 05. 08)
+* [머신러닝 기본 개념 - 트리 모델](https://ahnmunju.oopy.io/fc08366e-1c88-4f59-ae09-987e33ad77df) (2023. 05. 08)
 
 
 ---
