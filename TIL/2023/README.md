@@ -29,11 +29,11 @@
 
 ### [쇼핑데이터를 활용한 머신러닝](https://www.boostcourse.org/ai224/joinLectures/361801)
 * [정형 데이터 소개 및 EDA](https://ahnmunju.oopy.io/b0f8f322-0571-48b6-9ea7-7fc904897ebb) (2023. 05. 06)
-    * [실습 코드](./202305/20230509.ipynb)
+    * [실습 코드](./202305/20230509.ipynb) (2023. 05. 09)
 * [정형 데이터 전처리](https://ahnmunju.oopy.io/b68ad2eb-d023-48c1-bdd9-c2a563051e63) (2023. 05. 07)
 * [머신러닝 기본 개념 - 모델 성능 평가 및 검증](https://ahnmunju.oopy.io/a2c80d08-2ca2-4996-9c20-2afe1bb95837) (2023. 05. 08)
 * [머신러닝 기본 개념 - 트리 모델](https://ahnmunju.oopy.io/fc08366e-1c88-4f59-ae09-987e33ad77df) (2023. 05. 08)
-    * [실습 코드](./202305/20230510.ipynb)
+
 
 
 ---
@@ -44,7 +44,7 @@
 * [1주차: 확률](https://ahnmunju.oopy.io/36bb79f7-c3cc-420d-bd28-0ba036f53217) (2023. 05. 09)
 
 ### [선형대수로 배우는 빅데이터](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK02+2023_1/course/)
-* [1주차: 선형대수학의 개요]()
+* [1주차: 선형대수학의 개요](https://ahnmunju.oopy.io/822dfce4-964d-4794-9991-b5b14eb0f513) (2023. 05. 10)
 
 ---
 
