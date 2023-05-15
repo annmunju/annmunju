@@ -33,8 +33,8 @@
 * [정형 데이터 전처리](https://ahnmunju.oopy.io/b68ad2eb-d023-48c1-bdd9-c2a563051e63) (2023. 05. 07)
 * [머신러닝 기본 개념 - 모델 성능 평가 및 검증](https://ahnmunju.oopy.io/a2c80d08-2ca2-4996-9c20-2afe1bb95837) (2023. 05. 08)
 * [머신러닝 기본 개념 - 트리 모델](https://ahnmunju.oopy.io/fc08366e-1c88-4f59-ae09-987e33ad77df) (2023. 05. 08)
-
-
+* [피처 엔지니어링](https://ahnmunju.oopy.io/de28cfd5-f159-427d-8385-d26156a302e0) (2023. 05. 15)
+* [하이퍼 파라미터 튜닝과 앙상블](https://ahnmunju.oopy.io/298b79af-a6de-453f-8131-2a990d870120) (2023. 05. 15)
 
 ---
 
@@ -42,6 +42,7 @@
 
 ### [빅데이터를 위한 확률과 통계](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/course/)
 * [1주차: 확률](https://ahnmunju.oopy.io/36bb79f7-c3cc-420d-bd28-0ba036f53217) (2023. 05. 09)
+* [2주차: 확률분포](https://ahnmunju.oopy.io/d150a76f-b560-4987-82f9-b36077153a91) (2023. 05. 15)
 
 ### [선형대수로 배우는 빅데이터](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK02+2023_1/course/)
 * [1주차: 선형대수학의 개요](https://ahnmunju.oopy.io/822dfce4-964d-4794-9991-b5b14eb0f513) (2023. 05. 10)
