@@ -42,7 +42,7 @@
 
 ### [빅데이터를 위한 확률과 통계](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/course/)
 * [1주차: 확률](https://ahnmunju.oopy.io/36bb79f7-c3cc-420d-bd28-0ba036f53217) (2023. 05. 09)
-* [2주차: 확률분포](https://ahnmunju.oopy.io/d150a76f-b560-4987-82f9-b36077153a91) (2023. 05. 15)
+* [2주차: 확률분포](https://ahnmunju.oopy.io/d150a76f-b560-4987-82f9-b36077153a91) (2023. 05. 17)
 
 ### [선형대수로 배우는 빅데이터](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK02+2023_1/course/)
 * [1주차: 선형대수학의 개요](https://ahnmunju.oopy.io/822dfce4-964d-4794-9991-b5b14eb0f513) (2023. 05. 10)
