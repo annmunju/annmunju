@@ -23,6 +23,7 @@
 ### Reinforcement learning
 * [Reinforcement learning](./202304/20230404-26.md) (2023. 04. 04 ~ 26)
 * [실습 : gym을 이용한 강화학습](./202304/test_gym) (2023. 04.)
+* [강화학습 복습](./202305/20230517.md) (2023. 05. 17)
 
 
 ## Machine Learning - Boostcourse
