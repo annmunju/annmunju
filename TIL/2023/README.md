@@ -39,6 +39,15 @@
 
 ---
 
+## Deep Learning - Boostcourse
+
+### [딥러닝 기초 다지기](https://www.boostcourse.org/ai111/joinLectures/316854)
+* [딥러닝 기초](https://ahnmunju.oopy.io/8ffb82fa-68d0-4ad1-98ab-db7f31036614) (2023. 05. 21)
+* [최적화](https://ahnmunju.oopy.io/be2e31d8-f268-4276-b221-2f3bd26c4ba2) (2023. 05. 22)
+
+
+---
+
 ## 매치업(Match業) 빅데이터와 수학적사고
 
 ### [빅데이터를 위한 확률과 통계](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/course/)
