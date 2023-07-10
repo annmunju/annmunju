@@ -45,21 +45,6 @@
 * [딥러닝 기초](https://ahnmunju.oopy.io/8ffb82fa-68d0-4ad1-98ab-db7f31036614) (2023. 05. 21)
 * [최적화](https://ahnmunju.oopy.io/be2e31d8-f268-4276-b221-2f3bd26c4ba2) (2023. 05. 22)
 
-
----
-
-## 매치업(Match業) 빅데이터와 수학적사고
-
-### [빅데이터를 위한 확률과 통계](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/course/)
-* [1주차: 확률](https://ahnmunju.oopy.io/36bb79f7-c3cc-420d-bd28-0ba036f53217) (2023. 05. 09)
-
-### [선형대수로 배우는 빅데이터](http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK02+2023_1/course/)
-* [1주차: 선형대수학의 개요](https://ahnmunju.oopy.io/822dfce4-964d-4794-9991-b5b14eb0f513) (2023. 05. 10)
-
----
-
-## 
-
 ---
 
 ## Papaer reading
