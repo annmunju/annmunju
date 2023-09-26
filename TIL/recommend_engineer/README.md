@@ -7,6 +7,7 @@
 ## 2. 머신러닝 & 딥러닝
 - [scikit-learn Examples 문제풀이](https://scikit-learn.org/stable/auto_examples/index.html)
     - [이론 정리](https://ahnmunju.notion.site/scikit-learn-422a357c4ef644f9939718e817c259d9?pvs=4)
+    - [문제 풀이](./scikit-learn-example/)
 
 ## 3. 추천시스템
 - [강의 수강기(요기요 머신러닝 엔지니어에게 배우는 추천시스템 입문)](./class101/)
