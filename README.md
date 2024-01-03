@@ -50,6 +50,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://mungdo-log.tistory.com/pages/AI%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%95%88%EB%AC%B8%EC%A3%BC-%EC%9E%85%EB%8B%88%EB%8B%A4)
 [![Gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:ahnmunju@gmail.com)
-[![TIL](https://img.shields.io/badge/TIL:2023-Here-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2023)
+[![TIL](https://img.shields.io/badge/TIL:2024-Here-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2024)
 
 </div>
