@@ -8,6 +8,11 @@
 
 ### [네이버 부스트코스] [프로젝트로 배우는 데이터사이언스](https://www.boostcourse.org/ds214)
 - 1. 분류모델 기초 [실습](./Data_science/sklearn_example.ipynb) (2024. 1. 12) 
+- 2. EDA를 통해 데이터 탐색하기 [실습](./Data_science/kaggle_eda_classification_example.ipynb) (2024. 1. 17)
+
+### [네이버 부스트클래스] AI 엔지니어 기초 다지기
+- (1주차) 정형데이터 머신러닝 Tree 모델 사용 [개념 요약]()
+
 
 ## Book
 - IT 5분 잡학사전
