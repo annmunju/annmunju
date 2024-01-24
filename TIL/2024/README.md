@@ -7,14 +7,17 @@
 ## Data Science
 
 ### [네이버 부스트코스] [프로젝트로 배우는 데이터사이언스](https://www.boostcourse.org/ds214)
-- 1. 분류모델 기초 [실습](./Data_science/sklearn_example.ipynb) (2024. 1. 12) 
-- 2. EDA를 통해 데이터 탐색하기 [실습](./Data_science/kaggle_eda_classification_example.ipynb) (2024. 1. 17)
-- 3. 탐색한 데이터로 모델성능 개선 [실습](./Data_science/kaggle_eda_classification_example.ipynb) (2024. 1. 23)
-- 4. 모델과 파라미터 찾기 [실습](./Data_science/kaggle_modeling_exmaple.ipynb) (2024. 1. 24)
+- 1. 분류모델 기초 [실습](./Data_science/boostcource/sklearn_example.ipynb) (2024. 1. 12) 
+- 2. EDA를 통해 데이터 탐색하기 [실습](./Data_science/boostcource/kaggle_eda_classification_example.ipynb) (2024. 1. 17)
+- 3. 탐색한 데이터로 모델성능 개선 [실습](./Data_science/boostcource/kaggle_eda_classification_example.ipynb) (2024. 1. 23)
+- 4. 모델과 파라미터 찾기 [실습](./Data_science/boostcource/kaggle_modeling_exmaple.ipynb) (2024. 1. 24)
 
 
 ### [네이버 부스트클래스] AI 엔지니어 기초 다지기
-- (1주차) 정형데이터 머신러닝 Tree 모델 사용 [개념 요약]()
+- (1주차) 정형데이터 머신러닝 Tree 모델 사용 [개념 요약](./Data_science/boostclass/Tree%20이론.md) (2024. 1. 15 ~ 21)
+- (2주차) 특성공학과 앙상블 [개념 요약](./Data_science/boostclass/) (2024. 1. 22 ~ 28)
+
+## 
 
 
 ## Book
