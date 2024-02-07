@@ -9,3 +9,4 @@ embedding_model
 tmp/
 boostcourse/
 *.csv
+reference/
