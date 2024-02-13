@@ -11,7 +11,7 @@
 2. EDA를 통해 데이터 탐색하기 [실습](./Data_science/boostcource/kaggle_eda_classification_example.ipynb) (2024. 1. 17)
 3. 탐색한 데이터로 모델성능 개선 [실습](./Data_science/boostcource/kaggle_eda_classification_example.ipynb) (2024. 1. 23)
 4. 모델과 파라미터 찾기 [실습](./Data_science/boostcource/kaggle_modeling_exmaple.ipynb) (2024. 1. 24)
-5. 프로젝트 [실습](./Data_science/boostcource/데이콘_고객-대출등급-분류/) (2024. 2. 6)
+5. 프로젝트 [실습](https://github.com/annmunju/competitions/tree/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EA%B3%A0%EA%B0%9D-%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89-%EB%B6%84%EB%A5%98) (2024. 2. 6)
 
 
 ### [네이버 부스트클래스] AI 엔지니어 기초 다지기
