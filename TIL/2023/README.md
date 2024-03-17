@@ -56,6 +56,14 @@
 
 ---
 
+## Coding 
+
+### Object detection
+- [객체 탐지 실습](object_detection/)
+
+
+---
+
 ## 추천시스템 엔지니어 공부
 - [공부 내용 정리](https://ahnmunju.notion.site/ec5b6536ade243e9b7f2e014a126012d?pvs=4)
 
