@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/anmunju/Documents/annmunju_github/TIL_annmunju/TIL/2024/Computer_science/C언어/06-07_함수와-기억클래스/07"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0xA0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0xA0 }
+  - { offsetInCU: 0x73, offset: 0x73, size: 0x8, addend: 0x0, symName: _swap_1, symObjAddr: 0xA0, symBinAddr: 0x100003E74, symSize: 0x60 }
+  - { offsetInCU: 0xB3, offset: 0xB3, size: 0x8, addend: 0x0, symName: _swap_2, symObjAddr: 0x100, symBinAddr: 0x100003ED4, symSize: 0x78 }
+...
