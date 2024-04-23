@@ -14,10 +14,8 @@
 5. 프로젝트 [실습](https://github.com/annmunju/competitions/tree/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EA%B3%A0%EA%B0%9D-%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89-%EB%B6%84%EB%A5%98) (2024. 2. 6)
 
 
-### [네이버 부스트클래스] AI 엔지니어 기초 다지기
-1. 정형데이터 머신러닝 Tree 모델 사용 [개념 요약](./Data_science/boostclass/Tree%20이론.md) (2024. 1. 15 ~ 21)
-2. 특성공학과 앙상블 
-3. 경사하강법 [구현 연습](./Data_science/boostclass/)
+### 사이드 공부
+1. 정형데이터 머신러닝 Tree 모델 사용 [개념 요약](./Data_science/202401_boostclass/Tree%20이론.md) (2024. 1. 15 ~ 21)
 
 ## Data Engineering
 
