@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/anmunju/Documents/annmunju_github/TIL_annmunju/TIL/2024/Computer_science/C언어/08-10_배열과-포인터/10"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EE4, symSize: 0xA4 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EE4, symSize: 0xA4 }
+  - { offsetInCU: 0x54, offset: 0x54, size: 0x8, addend: 0x0, symName: _main.a, symObjAddr: 0xA4, symBinAddr: 0x100008000, symSize: 0x0 }
+...
