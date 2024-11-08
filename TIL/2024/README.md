@@ -23,12 +23,7 @@
 1. [httpd 환경 설정](VM/241008-2.md) (2024. 10. 08)
 2. [DB 환경 설정 - MariaDB (w. wordpress)](VM/241010_11.md)
 
-### 서버 종류 별 설정 (241014~29)
-- [Storage (iscsi, samba, nfs)](VM/storage.md)
-- [DBMS](VM/dbms.md)
-- [HAproxy](VM/haproxy.md)
-- [WAS (Tomcat, IIS)](VM/was.md)
-- [DNS](VM/dns.md)
-- [Untangle](VM/untangle.md)
-
 ## Architecting on AWS
+1. [아키텍팅 기본 사항](Cloud/AWS/01.md) (2024. 11. 04)
+2. [계정 보안](Cloud/AWS/02.md) (2024. 11. 04)
+3. [네트워킹 1](Cloud/AWS/03.md) (2024. 11. 04)
