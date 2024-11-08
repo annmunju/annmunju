@@ -1,3 +1,34 @@
 # Today I Learned (2024)
 
-## VM 환경 구성 및 가상화 실습
+
+## 가상화 데이터 센터에서 웹 서비스 구축
+
+### VM 구성 및 실습
+- [VMWare workstation 구성 및 Rocky9, Window 설정 항목](VM/240924.md) (2024. 09. 24)
+- [VM 개념 및 Oracle VBox 실습 (w.sshd)](VM/241008-1.md) (2024. 10. 08)
+- [VMWear ESXi (하이퍼바이저1 실습)](VM/241014.md) (2024. 10. 14)
+
+### 리눅스(rocky) 서버 설정 실습
+- [리눅스 명령어 기본](VM/240925.md) (2024. 09. 25)
+- [SSH 설정 및 유저/그룹 권한 관련 설정 (Rocky9)](VM/240926.md) (2024. 09. 26)
+- [스토리지 (디스크 파티셔닝, LVM)](VM/240927.md) (2024. 09. 27)
+- [패키지 관리와 프로세스 관리](VM/240930-1.md) (2024. 09. 30)
+
+### 네트워크
+- [네트워크 개괄 (IP, subnet 계산 문제 포함)](VM/240930-2.md) (2024. 09. 30)
+- [아키텍처 예시](VM/241018.md) (2024. 10. 18)
+
+### 리눅스(ubuntu) 서버 실습 (w. wordpress)
+0. [우분투 기본 설정](VM/241014-ubuntu.md) (2024. 10. 14)
+1. [httpd 환경 설정](VM/241008-2.md) (2024. 10. 08)
+2. [DB 환경 설정 - MariaDB (w. wordpress)](VM/241010_11.md)
+
+### 서버 종류 별 설정 (241014~29)
+- [Storage (iscsi, samba, nfs)](VM/storage.md)
+- [DBMS](VM/dbms.md)
+- [HAproxy](VM/haproxy.md)
+- [WAS (Tomcat, IIS)](VM/was.md)
+- [DNS](VM/dns.md)
+- [Untangle](VM/untangle.md)
+
+## Architecting on AWS
