@@ -32,11 +32,8 @@
 ### 🌱 Links 🌱
 
 [![TIL](https://img.shields.io/badge/TIL:2024-Here-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2024)
-<br>
 [![velog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://velog.io/@ahnmunju/posts)
-<br>
 [![brunch](https://img.shields.io/badge/Brunch-Here-yellow?style=for-the-badge)](https://brunch.co.kr/@annmunju)
-<br>
 [![Gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:ahnmunju@gmail.com)
 
 </div>
