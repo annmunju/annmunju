@@ -27,12 +27,6 @@
 2. [계정 보안](AWS-therory/02.md) (2024. 11. 04)
 3. [네트워킹 1](AWS-therory/03.md) (2024. 11. 04)
 
-## Used library & API
-- Langchain (Studying by [Udemy cource](https://www.udemy.com/course/langchain/)) (2023. 12 ~)
-    - [github repo](https://github.com/annmunju/cource-langchain)
-
----
-
 ## Data Science
 
 ### [네이버 부스트코스] [프로젝트로 배우는 데이터사이언스](https://www.boostcourse.org/ds214)
@@ -76,3 +70,7 @@
 4. [선택 제어문과 반복 제어문](Computer_science/C언어/05_선택-제어문과-반복-제어문/) (2024. 4. 2)
 5. [함수와 기억클래스](Computer_science/C언어/06-07_함수와-기억클래스/) (2024. 4. 3)
 6. [배열과 포인터](Computer_science/C언어/08-10_배열과-포인터/) (2024. 4. 23)
+
+## Used library & API
+- Langchain (Studying by [Udemy cource](https://www.udemy.com/course/langchain/)) (2023. 12 ~)
+    - [github repo](https://github.com/annmunju/cource-langchain)
