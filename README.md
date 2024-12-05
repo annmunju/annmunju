@@ -8,27 +8,10 @@
 <div align=center>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fannmunju&count_bg=%23DC5F5F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
  
 </div>
 
------
-
-<div align=center>
-   
-   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=annmunju&show_icons=true)
-   
-   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annmunju&hide_border=true)
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annmunju&layout=compact)
-
-</div>
-
-
-------
-
-
-
+---
 
 <div align=center>
    
@@ -48,8 +31,12 @@
 
 ### 🌱 Links 🌱
 
-[![Blog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://mungdo-log.tistory.com/pages/AI%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%95%88%EB%AC%B8%EC%A3%BC-%EC%9E%85%EB%8B%88%EB%8B%A4)
-[![Gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:ahnmunju@gmail.com)
 [![TIL](https://img.shields.io/badge/TIL:2024-Here-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2024)
+<br>
+[![velog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://velog.io/@ahnmunju/posts)
+<br>
+[![brunch](https://img.shields.io/badge/Brunch-Here-yellow?style=for-the-badge)](https://brunch.co.kr/@annmunju)
+<br>
+[![Gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:ahnmunju@gmail.com)
 
 </div>
