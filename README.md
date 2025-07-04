@@ -5,6 +5,10 @@
 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
+
 <div align=center>
 
 ![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fannmunju?color=green&label=hits&size=medium)
