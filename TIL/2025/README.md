@@ -87,3 +87,11 @@
 	- [2. EKS 클러스터에 애플리케이션 배포와 관리 & 네트워크](AWS/250401%20Amazon%20EKS%20(2).md) (2025. 04. 01)
 	- [3. EKS 네트워킹 & 스토리지 & 보안](AWS/250402%20Amazon%20EKS%20(3).md) (2025. 04. 02)
 - [AWS AI/ML Essentials](AWS/250407%20AWS%20AIML%20Essentials.md) (2025. 04. 07)
+
+# Data Engineering
+
+## 책 <견고한 데이터 엔지니어링>
+- [1장. 데이터 엔지니어링 상세](Data_engineering/1.md) (2025. 07. 17)
+- [2장. 데이터 엔지니어링 수명주기](Data_engineering/2.md) (2025. 07. 17)
+- [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
+- [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
