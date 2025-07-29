@@ -8,8 +8,11 @@
 5. [메모리](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
 6. [보조기억장치와 입출력장치](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
 
-# AWS : Skill Builder
-## Data Engineering
+# Data Engineering
+
+## AWS 온라인 & 오프라인 강의 수강
+
+### AWS : Skill Builder
 1. Data Engineering on AWS 시리즈
 	1. [Foundations (Korean)](AWS/Data_Engineering/250324%20Data%20Engineering%20on%20AWS%20-%20Foundations.md) (2025. 03. 24)
 	2. Data Lake (Korean)
@@ -46,7 +49,7 @@
 	- [S3 버킷에 데이터 쿼리하기 : Athena 실습 후기](AWS/Data_Engineering/250328%20Athena를%20사용하여%20데이터%20분석.md) (2025. 03. 28)
 	- [S3 액세스 포인트 및 VPC 엔드포인트를 통한 S3 엑세스 관리](AWS/Data_Engineering/250328%20S3%20액세스%20포인트%20및%20VPC%20엔드포인트를%20통한%20S3%20엑세스%20관리.md) (2025. 03. 28)
 
-## Migration Learning Plan
+### AWS Migration Learning Plan
 4. [Introduction to Database Migration (Korean)](AWS/Migration_Learning_Plan/250310%20DB%20Migration.md) (2025. 03. 10)
 5. [Introduction to the AWS Cloud Adoption Framework (CAF) (Korean)](AWS/Migration_Learning_Plan/250310%20AWS%20Cloud%20Adoption%20Framework.md) (2025. 03. 10)
 6. [From Migration to Modernization: Discover, plan, and migrate a monolith to ECS and Fargate with the help of Application Discovery and no code changes (Korean)](AWS/Migration_Learning_Plan/250311%20마이그레이션부터%20현대화까지%20-%20모놀리틱에서%20MSA.md) (2025. 03. 11)
@@ -60,25 +63,25 @@
 14. [Planning Large Scale Data Migrations to AWS (Korean)](AWS/Migration_Learning_Plan/250313%20대규모%20데이터%20마이그레이션.md) (2025. 03. 13) 
 15. [Designing Landing Zone Architectures with AWS Control Tower (Korean)](AWS/Migration_Learning_Plan/250313%20Landing%20Zone%20Architectures.md) (2025. 03. 13)
 
-## Database Learning Plan
+### AWS Database Learning Plan
 16. [AWS Database Offerings (Korean)](AWS/Database_Learning_Plan/250322%20AWS%20Database%20Offerings.md) (2025. 03. 22)
 17. [Amazon DynamoDB](AWS/Database_Learning_Plan/250321%20Amazon%20DynamoDB.md) (2025. 03. 21)
 18. [Amazon DynamoDB Serverless Architectures](AWS/Database_Learning_Plan/250321%20Amazon%20DynamoDB%20Serverless%20Architectures.md) (2025. 03. 21)
 19. [Amazon Aurora with MySQL](AWS/Database_Learning_Plan/250331%20Aurora%20with%20MySQL.md) (2025. 03. 31)
 20. Amazon Aurora with PostgreSQL 
 
-## Containers Learning Plan
+### AWS Containers Learning Plan
 21. [Amazon EKS Anywhere](AWS/Containers_Learning_Plan/250331%20EKS%20Anywhere.md) (2025. 03. 31)
 22. [Amazon EKS Primer](AWS/Containers_Learning_Plan/250401%20EKS%20Primer.md) (2025. 04. 01)
 23. [Amazon ECS](AWS/Containers_Learning_Plan/250404%20Amazon%20ECS.md) (2025. 04. 04)
 24. [EKS 실습](AWS/Containers_Learning_Plan/250410%20EKS로%20앱%20배포%20실습.md) / [ECS 실습](AWS/Containers_Learning_Plan/250410%20ECS로%20앱%20배포%20실습.md) (2025. 04. 10)
 25. [AWS Observability](AWS/Containers_Learning_Plan/250411%20AWS%20Observability.md) (2025. 04. 11)
 
-## ML Learning Plan
+### AWS ML Learning Plan
 1. [Fundamentals of Machine Learning and Artificial Intelligence](AWS/ML_Learning_Plan/250411%20Fundamentals%20of%20ML%20AI.md) (2025. 04. 11)
 2. [Developing Machine Learning Solutions](AWS/ML_Learning_Plan/250413%20Developing%20Machine%20Learning%20Solutions.md) (2025. 04. 13)
 
-## 오프라인 공인 교육
+### AWS 오프라인 공인 교육
 - [Security Engineering on AWS](AWS/250311%20Security%20Engineering%20on%20AWS.md) (2025. 03. 11)
 - [Architecting on AWS](AWS/250319%20Architecting%20on%20AWS.md) (2025. 03. 19)
 - [Developing on AWS](AWS/250324%20Developing%20on%20AWS.md) (2025. 03. 24)
@@ -88,10 +91,23 @@
 	- [3. EKS 네트워킹 & 스토리지 & 보안](AWS/250402%20Amazon%20EKS%20(3).md) (2025. 04. 02)
 - [AWS AI/ML Essentials](AWS/250407%20AWS%20AIML%20Essentials.md) (2025. 04. 07)
 
-# Data Engineering
-
 ## 책 <견고한 데이터 엔지니어링>
 - [1장. 데이터 엔지니어링 상세](Data_engineering/1.md) (2025. 07. 17)
 - [2장. 데이터 엔지니어링 수명주기](Data_engineering/2.md) (2025. 07. 17)
 - [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
 - [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
+
+## GCP : Skills Boost for Partners
+
+### GCP Professional Data Engineer Certification Learning Path
+- [Preparing for your Professional Data Engineer Journey](GCP/250723.md) (2025. 07. 23)
+- Introduction to Data Engineering on Google Cloud
+	- [Data Engineering Tasks and Components](GCP/250718.md) (2025. 07. 18)
+	- [Data Replication and Migration](GCP/250718.md) (2025. 07. 18)
+	- [The Extract and Load Data Pipeline Pattern](GCP/250718.md) (2025. 07. 18)
+	- [The Extract, Load, and Transform Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
+	- [The Extract, Transform, and Load Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
+	- [Automation Techniques](GCP/250721.md) (2025. 07. 21)
+- Modernizing Data Lakes and Data Warehouses with Google Cloud
+	- [Introduction to Data Engineering](GCP/250728.md) (2025. 07. 28)
+	- [Building a Data Lake](GCP/250729.md) (2025. 07. 29)
