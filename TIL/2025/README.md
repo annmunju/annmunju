@@ -111,3 +111,4 @@
 - Modernizing Data Lakes and Data Warehouses with Google Cloud
 	- [Introduction to Data Engineering](GCP/250728.md) (2025. 07. 28)
 	- [Building a Data Lake](GCP/250729.md) (2025. 07. 29)
+	- [Building a Data Warehouse](GCP/250730.md) (2025. 07. 30)
