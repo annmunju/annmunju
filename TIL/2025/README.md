@@ -96,6 +96,8 @@
 - [2장. 데이터 엔지니어링 수명주기](Data_engineering/2.md) (2025. 07. 17)
 - [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
 - [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
+- [5장. 1단계: 원천 시스템에서의 데이터 생성](Data_engineering/5.md) (2025. 08. 11)
+- [6장. 2단계: 데이터 저장]()
 
 ## GCP : Skills Boost for Partners
 
@@ -112,3 +114,8 @@
 	- [Introduction to Data Engineering](GCP/250728.md) (2025. 07. 28)
 	- [Building a Data Lake](GCP/250729.md) (2025. 07. 29)
 	- [Building a Data Warehouse](GCP/250730.md) (2025. 07. 30)
+- Google Cloud의 AI 및 머신러닝 소개
+	- [AI 기반](GCP/250813.md) (2025. 08. 13)
+	- [AI 개발 옵션](GCP/250813.md) (2025. 08. 13)
+	- AI 개발 워크플로
+	- 생성형 AI
