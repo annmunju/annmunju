@@ -45,7 +45,7 @@
 3. 관련 서비스 실습
 	- [Data Warehouse Redshift 실습 후기](AWS/Data_Engineering/250323%20Redshift%20실습%20후기.md) (2025. 03. 23)
 	- [빅데이터 플랫폼 EMR 실습 후기](AWS/Data_Engineering/250327%20EMR%20및%20Spark를%20사용한%20데이터%20수집%20및%20변환.md) (2025. 03. 27)
-	- [데이터 준비 및 통합을 위한 Glue 실습 후기](AWS/Data_Engineering/250327%20DynamoDB%20및 AWS%20Glue를%20사용하는%20데이터%20스토어%20관리.md) (2025. 03. 27)
+	- [데이터 준비 및 통합을 위한 Glue 실습 후기](AWS/Data_Engineering/250327%20DynamoDB%20및%20AWS%20Glue를%20사용하는%20데이터%20스토어%20관리.md) (2025. 03. 27)
 	- [S3 버킷에 데이터 쿼리하기 : Athena 실습 후기](AWS/Data_Engineering/250328%20Athena를%20사용하여%20데이터%20분석.md) (2025. 03. 28)
 	- [S3 액세스 포인트 및 VPC 엔드포인트를 통한 S3 엑세스 관리](AWS/Data_Engineering/250328%20S3%20액세스%20포인트%20및%20VPC%20엔드포인트를%20통한%20S3%20엑세스%20관리.md) (2025. 03. 28)
 
