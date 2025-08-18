@@ -97,7 +97,8 @@
 - [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
 - [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
 - [5장. 1단계: 원천 시스템에서의 데이터 생성](Data_engineering/5.md) (2025. 08. 11)
-- [6장. 2단계: 데이터 저장]()
+- [6장. 2단계: 데이터 저장](Data_engineering/6.md) (2025. 08. 14)
+- [7장. 3단계: 데이터 수집](Data_engineering/7.md)
 
 ## GCP : Skills Boost for Partners
 
