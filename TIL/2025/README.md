@@ -100,7 +100,7 @@
 - [6장. 2단계: 데이터 저장](Data_engineering/6.md) (2025. 08. 14)
 - [7장. 3단계: 데이터 수집](Data_engineering/7.md)
 
-## GCP : Skills Boost for Partners
+## GCP : Skills Boost
 
 ### GCP Professional Data Engineer Certification Learning Path
 - [Preparing for your Professional Data Engineer Journey](GCP/250723.md) (2025. 07. 23)
@@ -119,3 +119,5 @@
 	- [AI 기반](GCP/250813.md) (2025. 08. 13)
 	- [AI 개발 옵션](GCP/250813.md) (2025. 08. 13)
 	- [AI 개발 워크플로](GCP/250814.md) (2025. 08. 14)
+- Building Batch Data Pipelines on Google Cloud
+	- [일괄 데이터 파이프라인 빌드 소개](GCP/250819.md) (2025. 08. 19)
