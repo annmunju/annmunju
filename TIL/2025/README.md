@@ -99,6 +99,8 @@
 - [5장. 1단계: 원천 시스템에서의 데이터 생성](Data_engineering/5.md) (2025. 08. 11)
 - [6장. 2단계: 데이터 저장](Data_engineering/6.md) (2025. 08. 14)
 - [7장. 3단계: 데이터 수집](Data_engineering/7.md) (2025. 08. 21)
+- [8장. 4단계(1): 쿼리 모델링](Data_engineering/8(1).md) (2025. 09. 04)
+- [8장. 4단계(2): 데이터 변환](Data_engineering/8(2).md) (2025. 09. 11)
 
 ## GCP : Skills Boost
 
@@ -122,3 +124,4 @@
 - Building Batch Data Pipelines on Google Cloud
 	- [일괄 데이터 파이프라인 빌드 소개](GCP/250819.md) (2025. 08. 19)
 	- [Dataproc에서 Spark 실행](GCP/250820.md) (2025. 08. 20)
+	- [Dataflow를 사용핸 서버리스 데이터 처리](GCP/250908.md) (2025. 09. 08)
