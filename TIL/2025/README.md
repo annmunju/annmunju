@@ -1,14 +1,48 @@
-# Computer Science
+# ML Engineering
 
-## 책 <이것이 취업을 위한 컴퓨터 과학이다>
-### Chapter 02. 컴퓨터 구조
-1. [하드웨어](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
-3. [컴퓨터가 이해하는 정보](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
-4. [CPU](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
-5. [메모리](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
-6. [보조기억장치와 입출력장치](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
+## 책 <머신러닝 디자인 패턴>
+- [Chapter 1. 머신러닝 디자인 패턴의 필요성](ML_design_pattern/1.md) (2025. 09. 22)
 
 # Data Engineering
+
+## 책 <견고한 데이터 엔지니어링>
+- [1장. 데이터 엔지니어링 상세](Data_engineering/1.md) (2025. 07. 17)
+- [2장. 데이터 엔지니어링 수명주기](Data_engineering/2.md) (2025. 07. 17)
+- [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
+- [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
+- [5장. 1단계: 원천 시스템에서의 데이터 생성](Data_engineering/5.md) (2025. 08. 11)
+- [6장. 2단계: 데이터 저장](Data_engineering/6.md) (2025. 08. 14)
+- [7장. 3단계: 데이터 수집](Data_engineering/7.md) (2025. 08. 21)
+- [8장. 4단계(1): 쿼리 모델링](Data_engineering/8(1).md) (2025. 09. 04)
+- [8장. 4단계(2): 데이터 변환](Data_engineering/8(2).md) (2025. 09. 11)
+- [9장. 분석, 머신러닝 및 역 ETL을 위한 데이터 서빙](Data_engineering/9.md) (2025. 09 18)
+- [10장. 보안과 개인정보보호](Data_engineering/10.md)
+- [11장. 데이터 엔지니어링의 미래](Data_engineering/11.md)
+
+## GCP : Skills Boost
+
+### GCP Professional Data Engineer Certification Learning Path
+- [Preparing for your Professional Data Engineer Journey](GCP/250723.md) (2025. 07. 23)
+- Introduction to Data Engineering on Google Cloud
+	- [Data Engineering Tasks and Components](GCP/250718.md) (2025. 07. 18)
+	- [Data Replication and Migration](GCP/250718.md) (2025. 07. 18)
+	- [The Extract and Load Data Pipeline Pattern](GCP/250718.md) (2025. 07. 18)
+	- [The Extract, Load, and Transform Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
+	- [The Extract, Transform, and Load Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
+	- [Automation Techniques](GCP/250721.md) (2025. 07. 21)
+- Modernizing Data Lakes and Data Warehouses with Google Cloud
+	- [Introduction to Data Engineering](GCP/250728.md) (2025. 07. 28)
+	- [Building a Data Lake](GCP/250729.md) (2025. 07. 29)
+	- [Building a Data Warehouse](GCP/250730.md) (2025. 07. 30)
+- Google Cloud의 AI 및 머신러닝 소개
+	- [AI 기반](GCP/250813.md) (2025. 08. 13)
+	- [AI 개발 옵션](GCP/250813.md) (2025. 08. 13)
+	- [AI 개발 워크플로](GCP/250814.md) (2025. 08. 14)
+- Building Batch Data Pipelines on Google Cloud
+	- [일괄 데이터 파이프라인 빌드 소개](GCP/250819.md) (2025. 08. 19)
+	- [Dataproc에서 Spark 실행](GCP/250820.md) (2025. 08. 20)
+	- [Dataflow를 사용핸 서버리스 데이터 처리](GCP/250908.md) (2025. 09. 08)
+
 
 ## AWS 온라인 & 오프라인 강의 수강
 
@@ -91,37 +125,13 @@
 	- [3. EKS 네트워킹 & 스토리지 & 보안](AWS/250402%20Amazon%20EKS%20(3).md) (2025. 04. 02)
 - [AWS AI/ML Essentials](AWS/250407%20AWS%20AIML%20Essentials.md) (2025. 04. 07)
 
-## 책 <견고한 데이터 엔지니어링>
-- [1장. 데이터 엔지니어링 상세](Data_engineering/1.md) (2025. 07. 17)
-- [2장. 데이터 엔지니어링 수명주기](Data_engineering/2.md) (2025. 07. 17)
-- [3장. 우수한 데이터 아키텍처 설계](Data_engineering/3.md) (2025. 07. 24)
-- [4장. 데이터 엔지니어링 수명 주기 전체에 걸친 기술 선택](Data_engineering/4.md) (2025. 07. 28)
-- [5장. 1단계: 원천 시스템에서의 데이터 생성](Data_engineering/5.md) (2025. 08. 11)
-- [6장. 2단계: 데이터 저장](Data_engineering/6.md) (2025. 08. 14)
-- [7장. 3단계: 데이터 수집](Data_engineering/7.md) (2025. 08. 21)
-- [8장. 4단계(1): 쿼리 모델링](Data_engineering/8(1).md) (2025. 09. 04)
-- [8장. 4단계(2): 데이터 변환](Data_engineering/8(2).md) (2025. 09. 11)
 
-## GCP : Skills Boost
+# Computer Science
 
-### GCP Professional Data Engineer Certification Learning Path
-- [Preparing for your Professional Data Engineer Journey](GCP/250723.md) (2025. 07. 23)
-- Introduction to Data Engineering on Google Cloud
-	- [Data Engineering Tasks and Components](GCP/250718.md) (2025. 07. 18)
-	- [Data Replication and Migration](GCP/250718.md) (2025. 07. 18)
-	- [The Extract and Load Data Pipeline Pattern](GCP/250718.md) (2025. 07. 18)
-	- [The Extract, Load, and Transform Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
-	- [The Extract, Transform, and Load Data Pipeline Pattern](GCP/250721.md) (2025. 07. 21)
-	- [Automation Techniques](GCP/250721.md) (2025. 07. 21)
-- Modernizing Data Lakes and Data Warehouses with Google Cloud
-	- [Introduction to Data Engineering](GCP/250728.md) (2025. 07. 28)
-	- [Building a Data Lake](GCP/250729.md) (2025. 07. 29)
-	- [Building a Data Warehouse](GCP/250730.md) (2025. 07. 30)
-- Google Cloud의 AI 및 머신러닝 소개
-	- [AI 기반](GCP/250813.md) (2025. 08. 13)
-	- [AI 개발 옵션](GCP/250813.md) (2025. 08. 13)
-	- [AI 개발 워크플로](GCP/250814.md) (2025. 08. 14)
-- Building Batch Data Pipelines on Google Cloud
-	- [일괄 데이터 파이프라인 빌드 소개](GCP/250819.md) (2025. 08. 19)
-	- [Dataproc에서 Spark 실행](GCP/250820.md) (2025. 08. 20)
-	- [Dataflow를 사용핸 서버리스 데이터 처리](GCP/250908.md) (2025. 09. 08)
+## 책 <이것이 취업을 위한 컴퓨터 과학이다>
+### Chapter 02. 컴퓨터 구조
+1. [하드웨어](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
+3. [컴퓨터가 이해하는 정보](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
+4. [CPU](Computer_science/컴퓨터_구조_1.md) (2025. 01. 03)
+5. [메모리](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
+6. [보조기억장치와 입출력장치](Computer_science/컴퓨터_구조_2.md) (2025. 01. 03)
