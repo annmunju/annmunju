@@ -2,6 +2,10 @@
 
 ## 책 <머신러닝 디자인 패턴>
 - [Chapter 1. 머신러닝 디자인 패턴의 필요성](ML_design_pattern/1.md) (2025. 09. 22)
+...
+- Chapter 8. 연결 패턴
+	- [(1) 패턴 참조 & (2) 패턴 상호작용](ML_design_pattern/8(1).md) (2025. 09. 24)
+	- [(3) ML 프로젝트 내의 패턴](ML_design_pattern/8(2).md)
 
 # Data Engineering
 
