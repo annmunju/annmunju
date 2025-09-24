@@ -19,9 +19,9 @@
 - [7장. 3단계: 데이터 수집](Data_engineering/7.md) (2025. 08. 21)
 - [8장. 4단계(1): 쿼리 모델링](Data_engineering/8(1).md) (2025. 09. 04)
 - [8장. 4단계(2): 데이터 변환](Data_engineering/8(2).md) (2025. 09. 11)
-- [9장. 분석, 머신러닝 및 역 ETL을 위한 데이터 서빙](Data_engineering/9.md) (2025. 09 18)
-- [10장. 보안과 개인정보보호](Data_engineering/10.md)
-- [11장. 데이터 엔지니어링의 미래](Data_engineering/11.md)
+- [9장. 분석, 머신러닝 및 역 ETL을 위한 데이터 서빙](Data_engineering/9.md) (2025. 09. 18)
+- [10장. 보안과 개인정보보호](Data_engineering/10.md) (2025. 09. 22)
+- [11장. 데이터 엔지니어링의 미래](Data_engineering/11.md) (2025. 09. 23)
 
 ## GCP : Skills Boost
 
