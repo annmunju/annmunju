@@ -5,7 +5,8 @@
 ...
 - Chapter 8. 연결 패턴
 	- [(1) 패턴 참조 & (2) 패턴 상호작용](ML_design_pattern/8(1).md) (2025. 09. 24)
-	- [(3) ML 프로젝트 내의 패턴](ML_design_pattern/8(2).md)
+	- [(3) ML 프로젝트 내의 패턴 - ML 수명 주기](ML_design_pattern/8(2).md) (2025. 09. 26)
+	- [(3) ML 프로젝트 내의 패턴 - AI 준비](ML_design_pattern/8(3).md)
 
 # Data Engineering
 
