@@ -1,4 +1,5 @@
 # ML Engineering
+- [사전 개념 정리](ML_design_pattern/0.md) (2025. 10. 16)
 
 ## 책 <머신러닝 디자인 패턴>
 - [Chapter 1. 머신러닝 디자인 패턴의 필요성](ML_design_pattern/1.md) (2025. 09. 22)
