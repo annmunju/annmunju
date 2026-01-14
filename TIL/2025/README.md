@@ -24,8 +24,6 @@
 
 # Data Engineering
 
-## 책 <데이터 중심 애플리케이션 설계>
-
 ## 책 <견고한 데이터 엔지니어링>
 - [1장. 데이터 엔지니어링 상세](Data_engineering/fundamentals_of_data_engineering/1.md) (2025. 07. 17)
 - [2장. 데이터 엔지니어링 수명주기](Data_engineering/fundamentals_of_data_engineering/2.md) (2025. 07. 17)
