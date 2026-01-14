@@ -35,7 +35,8 @@
 - **2022**: Python, SQL, 데이터베이스, 머신러닝 기초 및 실습, Docker, Git 등 프로그래밍/데이터 과목 기초 학습 기록  
 - **2023**: Langchain, 프롬프트 엔지니어링, 데이터 분석, 최신 IT 기술, 컴퓨터 공학 개론 등 다양한 기술 스터디  
 - **2024**: 가상머신/리눅스 서버 실습, 시스템 아키텍처, 컴퓨터공학, C언어, 네트워크 및 IT 핵심 개념 중심 학습  
-- **2025**: ML Design Patterns, 데이터 엔지니어링(설계/파이프라인/ETL), AWS Data & ML/Database/Containers 서비스, GCP 데이터 엔지니어링, 실전 클라우드 활용 집중 학습  
+- **2025**: ML Design Patterns, 데이터 엔지니어링(설계/파이프라인/ETL), AWS Data & ML/Database/Containers 서비스, GCP 데이터 엔지니어링 등 클라우드 중심 학습
+- **2026**: 뭐할지 고민중입니다~!
 
 </div>
 
@@ -43,6 +44,7 @@
 
 [![TIL](https://img.shields.io/badge/TIL:2024-보러가기-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2024)
 [![TIL](https://img.shields.io/badge/TIL:2025-보러가기-pink?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2025)
+[![TIL](https://img.shields.io/badge/TIL:2026-보러가기-green?style=for-the-badge)](https://github.com/annmunju/annmunju/tree/main/TIL/2026)
 
 </div>
 
