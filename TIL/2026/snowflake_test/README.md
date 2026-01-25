@@ -1,4 +1,4 @@
-# Snowflake Data Loading Performance Experiment
+# [mini project] Snowflake Data Loading Performance Experiment
 
 Snowflake에서 **INSERT** vs **COPY INTO** 방식의 데이터 적재 성능을 비교하는 실험 프로젝트입니다.
 

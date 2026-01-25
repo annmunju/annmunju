@@ -1,4 +1,4 @@
-# 모두의 연구소 RAPIDS 기록
+# TIL : 모두의 연구소 RAPIDS 기록
 
 NVIDIA RAPIDS를 활용한 GPU 가속 데이터 분석 학습 프로젝트입니다.
 
