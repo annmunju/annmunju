@@ -9,4 +9,7 @@
 
 - 2026-02-04
     - [03. cuDF: Data Analysis 가속화](https://wikidocs.net/253312)
+        - [실습 노트북](03_01.%20Pandas와_비교하기.ipynb)
     - [04. cuML: Machine Learning 가속화](https://wikidocs.net/250992)
+        - [실습 노트북: cuML과 scikit-learn 비교](04_01_cuML과_scikit_learn_비교하기.ipynb)
+        - [실습 노트북: RAPIDS로 XGBoost 사용하기](1_RAPIDS_study/04_02_RAPIDS와_XGBoost_함께_사용하기.ipynb)
