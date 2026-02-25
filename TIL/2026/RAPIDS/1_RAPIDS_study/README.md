@@ -19,5 +19,5 @@
         - [실습 노트북: Dask 시작하기](05_01_Dask_시작하기_05_04_Multi_GPU의_시작_Client.ipynb)
     - [06. cuVS: Vector Clustering 및 Vector Search 가속화](https://wikidocs.net/253427)
         - [실습 노트북: cuVS vs FAISS](06_01_cuVS_기본_cuVS와_FAISS_비교하기.ipynb)
-        - [실습 노트북: cuVS 응용(1)]()
-        - [실습 노트북: cuVS 응용(2)]()
+        - [실습 노트북: cuVS 응용(1)](06_02_cuVS_응용(1).ipynb)
+        - [실습 노트북: cuVS 응용(2)](06_02_cuVS_응용(2).ipynb)
