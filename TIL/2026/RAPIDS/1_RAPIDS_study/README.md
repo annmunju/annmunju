@@ -14,7 +14,7 @@
         - [실습 노트북: cuML과 scikit-learn 비교](04_01_cuML과_scikit_learn_비교하기.ipynb)
         - [실습 노트북: RAPIDS로 XGBoost 사용하기](1_RAPIDS_study/04_02_RAPIDS와_XGBoost_함께_사용하기.ipynb)
 
-- 2026-02-24
+- 2026-02-25
     - [05. Dask: Lazy Execution과 분산 처리를 통한 Data Engineering Pipelines 가속화](https://wikidocs.net/252812)
         - [실습 노트북: Dask 시작하기](05_01_Dask_시작하기_05_04_Multi_GPU의_시작_Client.ipynb)
     - [06. cuVS: Vector Clustering 및 Vector Search 가속화](https://wikidocs.net/253427)
