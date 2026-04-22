@@ -8,3 +8,5 @@
   - [Time Series in depth](tutorial_notebooks/TimeSeries_in_depth.ipynb)
   - [Forecasting with Chronos2](tutorial_notebooks/Forecasting_with_Chronos_2.ipynb)
   - [Forecasting Evaluation Metrics](tutorial_notebooks/Forecasting_Evaluation_Metrics.ipynb)
+- AutoML Benchmark (2026. 4. 22)
+  - [OpenML Tuning with Autogluon](automl_benchmark/OpenML-Tuning.ipynb)

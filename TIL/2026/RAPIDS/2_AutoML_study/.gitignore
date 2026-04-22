@@ -1,3 +1,5 @@
 autogluon-m4-hourly/
 AutogluonModels/
 .uv-cache/
+openml_cache/
+autogluon_openml_results/
