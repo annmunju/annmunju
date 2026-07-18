@@ -46,5 +46,5 @@
 | [**2023**](./TIL/2023/) | 추천시스템, 강화학습, scikit-learn, LangChain |
 | [**2024**](./TIL/2024/) | 리눅스 서버, 네트워크, 데이터 엔지니어링 |
 | [**2025**](./TIL/2025/) | AWS/GCP 자격증, EKS, Spark, ML Design Patterns |
-| [**2026**](./TIL/2026/) | RAPIDS, RAG, Snowflake |
+| [**2026**](./TIL/2026/) | RAPIDS, Snowflake, 실제 앱 서비스 기획 개발 |
 
